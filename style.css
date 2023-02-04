@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+Great+Primer+SC&display=swap');
+
+body{
+    text-align: center;
+    align-items: center;
+    margin: 20px;
+    padding: 30px;
+    width: 485px;
+    height: 2700px;
+    background: #DCFFFF;
+}
+
+.navegador{
+padding: 10px;
+width: 37px;
+height: 48px;
+font-family: 'Lora';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+color: #FFFFFF;
+}
+
+.navbar{
+    margin-top: 34px;
+}
+
+.cabecera{
+    align-items: center;
+    position: absolute;
+    width: 485px;
+    height: 334px;
+    left: 0px;
+    top: 0px;
+    background: #0A0A0B;
+}
+
+
+.line{
+justify-content: center;
+position: absolute;
+width: 400px;
+height: 0px;
+left: 41px;
+top: 69px;
+border: 1px solid #FFFFFF;
+}
+
+.nombre{
+margin-top: 80px;
+text-align: center;
+font-family: 'Lora';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 54px;
+color: #FFFFFF;
+}
+
+.bienvenida{
+margin-top: 50px;
+font-family: 'Lora';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 27px;
+color: #00A74D;
+}
+
