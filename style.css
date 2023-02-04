@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=IM+Fell+Great+Primer+SC&display=swap');
 
 body{
-    text-align: center;
+    
     align-items: center;
     margin: 20px;
     padding: 30px;
@@ -25,9 +25,11 @@ color: #FFFFFF;
 
 .navbar{
     margin-top: 34px;
+    text-align: center;
 }
 
 .cabecera{
+    text-align: center;
     align-items: center;
     position: absolute;
     width: 485px;
@@ -69,3 +71,27 @@ line-height: 27px;
 color: #00A74D;
 }
 
+.sobremi{
+position: absolute;
+width: 335px;
+height: 34px;
+left: 30px;
+top: 599px;
+
+font-family: 'Sansation';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 27px;
+color: #02B554;
+
+}
+
+.perfil{
+    display:flex;
+    justify-content:center;
+    position: absolute;
+    top: 670px;
+    width: 370px; 
+    border-radius: 20px;
+}
