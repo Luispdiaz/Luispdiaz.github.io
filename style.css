@@ -69,3 +69,14 @@ line-height: 27px;
 color: #00A74D;
 }
 
+.carrusel{
+    position: absolute;
+    top: 362px;
+    display: flex;
+    justify-content: center;
+}
+
+.imagen{
+    width: 390px;
+    height: 250px;
+}
