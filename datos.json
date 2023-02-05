@@ -1,0 +1,33 @@
+[
+{
+ "Habilidad":"Capacidad de Aprendizaje",
+ "Rectanguloverde":"2",
+ "Rectanguloblanco":"11",
+ "tituloshabilidades": "1"
+}, 
+{
+    "Habilidad":"Responsabilidad",
+    "Rectanguloverde":"3",
+ "Rectanguloblanco":"12",
+ "tituloshabilidades": "2"
+   },
+   {
+    "Habilidad":"Creatividad e Innovacion",
+    "Rectanguloverde":"4",
+ "Rectanguloblanco":"13",
+ "tituloshabilidades": "3"
+   },
+   {
+    "Habilidad":"Python",
+    "Rectanguloverde":"5",
+ "Rectanguloblanco":"14",
+ "tituloshabilidades": "4"
+   },
+   {
+    "Habilidad":"Java",
+    "Rectanguloverde":"6",
+ "Rectanguloblanco":"15",
+ "tituloshabilidades": "5"
+   }
+
+]
