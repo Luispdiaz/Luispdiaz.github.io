@@ -1,18 +1,124 @@
 <!DOCTYPE html>
-<html lang='es'>
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="style2.css">
-    </head>
-    <body>
-        <div>
-            <h1 class="letrabienvenida">Bienvenido, dale click al carrusel para comenzar</h1>
-        </div>
-        <section id="principal" class="principal">
-                <a href="index.html"><img class="imagen" id="slide" src="imagenes/imagen1.jpg" alt="slide" name="slide"></a>
-        </section>
-    </body>
-    <script src="main2.js"></script>
-</html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+            <header class="cabecera">
+                <nav class="navbar">
+                    <a href="#carrusel" class="navegador"> Carrusel </a>
+                    <a href="#sobremi" class="navegador">Sobre mi</a>
+                    <a href="#experiencia" class="navegador">Experiencia</a>
+                    <a href="#habilidades" class="navegador">Habilidades</a>
+                    <a href="#contactame" class="navegador">Contáctame</a>
+                </nav> 
+                <div class="line"></div>
+                <h1 class="nombre">Luis Pernía</h1>
+                <h2 class="bienvenida">Mi primera página web</h2>
+            </header>
+
+            
+            <section id="carrusel" class="carrusel">
+                    <div >
+                        <img class="imagen" id="imagen" src="imagenes/imagen1.jpg" alt="imagen" name="imagen"></a>
+                    </div>
+            </section>
+
+
+            <section id="sobremi" class="sobremi">
+                    
+                        <div class="parte1">
+                        <h1 class="sobremititulo">Sobre mi</h1>
+                        <img class="perfil" src="imagenes/imagen6.jpg">
+                        <a class="descripcion">
+                            Soy venezolano, residente del Distrito Capital, específicamente en el Municipio El Hatillo. Además, estudiante de Ingeniería de Sistemas de la Universidad Metropolitana, graduado de bachiller en el Instituto Arturo Michelena. Tengo 18 años de edad y nací el 2 de octubre del 2002.
+                        </a>
+                        </div>
+
+                        <div class="parte2">
+                        <h2 class="subtitulos">Perfil e intereses</h2>
+                        <a class="intereses">
+                            Me considero creativo, proactivo e interesado en seguir aprendiendo. Me gusta mucho la actividad fisica, salir con mis amigos y pasar tiempo con mi familia. Me considero una persona integra con deseos de superación y me gusta trabajar en equipo.
+                        </a>
+                        </div>
+
+                        <div class="parte3">
+                        <h2 class="cortoplazo">Objetivos a corto plazo</h2>
+                        <a class="textocortoplazo">
+                            Mi objetivo actual es graduarme de la universidad  y volverme competente como ingeniero de sistemas.
+                        </a>
+                        </div>
+
+                        <div class="parte4">
+                        <h2 class="largoplazo">Objetivos a largo plazo</h2>
+                        <a class="textolargoplazo">
+                            Mis objetivos futuros son crear y gestionar negocios relacionados con tecnología, tener un estilo de vida saludable y seguir formandome.
+                        </a>
+                        </div>
+                    </div>
+            </section>
+
+            <section id="experiencia" class="experiencia">
+                <h1 class="sobremititulo">Experiencia</h1>
+                <div class="rectangulo">
+
+                    <div>
+                    <h1 class="titulosproyectos">Proyecto Laberinto</h1>
+                    <a class="parrafoproyecto">Este es un proyecto desarrollado en java en noviembre del 2022.</a>
+                    <a class="link"  href="https://github.com/Luispdiaz/ProyectoEstructuras.git">link</a>
+                    <img class="imagenproyectos" src="imagenes/imagen7.png">
+                    </div>
+
+                    <div class="parte2experiencia">
+                        <h1 class="titulosproyectos">Proyecto Arboles</h1>
+                        <a class="parrafoproyecto">Este es un proyecto desarrollado en java en diciembre del 2022.</a>
+                        <a class="link"  href="https://github.com/Luispdiaz/Proyecto2_PCR-.git">link</a>
+                        <img class="imagenproyectos" src="imagenes/imagen9(1).png">
+                    </div>
+
+                    <div class="parte3experiencia">
+                        <h1 class="titulosproyectos">Proyecto SamanFifa</h1>
+                        <a class="parrafoproyecto">Este es un proyecto desarrollado en python en mayo del 2022.</a>
+                        <a class="link"  href="https://github.com/Luispdiaz/Samanfifa.git">link</a>
+                        <img class="imagenproyectos" src="imagenes/imagen8(1).png">
+                    </div>
+                    
+                </div>
+            </section>
+
+                    
+            <section id="habilidades" class="habilidades">
+                <h1 class="sobremititulo">Habilidades</h1>
+                <div class="rectangulohabilidades" id="rectangulohabilidades">
+
+                </div>
+            </section>
+                
+            <section id="contactame" class="contactame">  
+                        <h1 class="sobremititulo">Contáctame</h1>
+                        <div class="formulario">
+                            <input id="inputnombre" type="text" name="nombre" placeholder="Nombre:">
+                            <input id="inputemail" type="text" name="nombre" placeholder="Email:">
+                            <textarea id="inputmensaje" type="mensaje" name="textarea" rows="10" cols="50" placeholder="Mensaje:"></textarea>
+                            <input id="boton" type="submit" value="Enviar">
+                        </div>
+                        
+                        <div>
+                        <a href="https://instagram.com/luispernia_diaz?igshid=MDM4ZDc5MmU=">
+                        <img class="iconos" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png">
+                        </a>
+                        <a href= "https://wa.me/qr/KWZQCH67W7AQF1">
+                        <img class="iconos2" src="https://es.logodownload.org/wp-content/uploads/2018/10/whatsapp-logo-11.png" >
+                        </a>
+                        </div>
+        
+            </section> 
+                
+        <script src="main.js"></script>
+        </body>
+            </html>
