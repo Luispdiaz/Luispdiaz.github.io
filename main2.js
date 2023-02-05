@@ -19,7 +19,7 @@ window.addEventListener("load", function() {
             n=0;
         }
     }
-    setInterval(Slide,6000);
+    setInterval(Slide,1600);
  });
 
 
