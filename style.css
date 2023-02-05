@@ -470,3 +470,29 @@ left: 290px;
     background: #9EF3FF;
     border-radius: 50px;
     }
+
+.contactame{
+    position: absolute;
+    top:2280px;
+}
+.formulario{
+    position: absolute;
+    top:60px;
+
+}
+
+.iconos{
+position: absolute;
+width: 100px;
+height: 99.88px;
+left: 70px;
+top:270px;
+}
+
+.iconos2{
+    position: absolute;
+    width: 100px;
+    height: 99.88px;
+    left: 200px;
+    top:270px;
+    }

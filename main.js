@@ -41,3 +41,13 @@ function TraerDatos(){
         
     }
 }
+
+const boton = document.querySelector("#boton")
+boton.addEventListener("click", () =>{
+    if(document.getElementById("inputnombre").value=="" || document.getElementById("inputemail").value=="" || document.getElementById("inputmensaje").value=="") {
+        alert("Rellene todos los campos")
+    }
+    else{
+    alert("Su mensaje fue enviado")
+    }
+})
