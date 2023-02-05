@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=IM+Fell+Great+Primer+SC&display=swap');
 
+/*Celular*/
+
+@media (min-width:480px){
 body{
     
     align-items: center;
@@ -496,3 +499,735 @@ top:270px;
     left: 200px;
     top:270px;
     }
+}
+
+@media (min-width:960px){
+    body{
+        margin: 40px;
+        padding: 60px;
+        width: 970px;
+        height: 5000px;
+    }
+    
+    .navegador{
+    padding: 20px;
+    width: 74px;
+    height: 96px;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 38px;
+    }
+    
+    .navbar{
+        margin-top: 68px;
+    }
+    
+    .cabecera{
+        width: 970px;
+        height: 668px;
+    }
+    
+    
+    .line{
+    width: 800px;
+    height: 0px;
+    left: 82px;
+    top: 138px;
+    border: 2px solid #FFFFFF;
+    }
+    
+    .nombre{
+    margin-top: 160px;
+    font-weight: 800px;
+    font-size: 96px;
+    line-height: 108px;
+    }
+    
+    .bienvenida{
+    margin-top: 100px;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 54px;
+    }
+    
+    .carrusel{
+        top: 724px;
+    }
+    
+    .imagen{
+        width: 780px;
+        height: 500px;
+    }
+    
+    .sobremi{
+    top: 1240px;
+    }
+    
+    .sobremititulo{
+        width: 670px;
+        height: 68px;
+        font-weight: 800;
+        font-size: 48px;
+        line-height: 54px;
+        color: #02B554;
+        
+        }
+        
+    .perfil{
+        top: 140px;
+        width: 740px; 
+        border-radius: 40px;
+    }
+    
+    .descripcion{
+        width: 700px;
+        height: 292px;
+        top: 740px;
+        font-weight: 800;
+        font-size: 32px;
+        line-height: 36px; 
+    }
+    
+    .subtitulos{
+        width: 670px;
+        height: 68px;
+        font-weight: 800px;
+        font-size: 40px;
+        line-height: 44px;
+    
+    }
+    
+    .intereses{
+        width: 800px;
+        height: 292px;
+        top: 100px;
+        font-weight: 800px;
+        font-size: 32px;
+        line-height: 36px;
+    }
+    
+    .cortoplazo{
+        width: 670px;
+        height: 68px;
+        font-weight: 800px;
+        font-size: 40px;
+        line-height: 44px;
+    
+    }
+    
+    .textocortoplazo{
+        width: 800px;
+        height: 292px;
+        top: 100px;
+        font-weight: 800px;
+        font-size: 32px;
+        line-height: 36px;
+    }
+    
+    .largoplazo{
+        width: 670px;
+        height: 68px;
+        font-weight: 800px;
+        font-size: 40px;
+        line-height: 44px;
+    
+    }
+    
+    .textolargoplazo{
+        width: 800px;
+        height: 292px;
+        top: 100px;
+        font-weight: 800px;
+        font-size: 32px;
+        line-height: 36px;
+    }
+    
+    .parte2{
+        top: 960px;
+    }
+    .parte3{
+        top: 1240px;
+    
+    }
+    .parte4{
+        top: 1400px;
+    
+    }
+    
+    .experiencia{
+        top:2860px;
+    }
+    
+    .rectangulo{
+    left:-40px;
+    top:140px;
+    width: 840px;
+    height: 740px;
+    border-radius: 100px;
+    }
+    
+    .titulosproyectos{
+        width: 366px;
+        height: 46px;
+        left: 164px;
+        font-weight: 800px;
+        font-size: 40px;
+        line-height: 44px;
+    }
+    
+    .parrafoproyecto{
+    width: 474px;
+    height: 66px;
+    left:100px;
+    top:100px;
+    font-weight: 800px;
+    font-size: 28px;
+    line-height: 32px;
+    }
+    
+    .link{
+        left: 260px;
+        top: 180px;
+    }
+    
+    .parte2experiencia{
+        top:240px;
+    }
+    
+    .parte3experiencia{
+        top:480px;
+    }
+    
+    .imagenproyectos{
+    width: 224px;
+    height: 174px;
+    top:40px;
+    left: 580px;
+    }
+    
+    .habilidades{
+        top:3780px;
+    }
+    
+    .tituloshabilidades1{
+        width: 550px;
+        height: 48px;
+        left: 60px;
+        font-weight: 800PX;
+        font-size: 40px;
+        line-height: 44px;
+        top:16px;
+    }
+    .tituloshabilidades2{
+        width: 550px;
+        height: 48px;
+        left: 60px;
+        font-weight: 800px;
+        font-size: 40px;
+        line-height: 44px;
+        top:110px;
+    }
+    .tituloshabilidades3{
+        width: 550px;
+        height: 48px;
+        left: 60px;
+        font-weight: 800px;
+        font-size: 40px;
+        line-height: 44px;
+        top:216px;
+    }
+    .tituloshabilidades4{
+        width: 550px;
+        height: 48px;
+        left: 60px;
+        font-weight: 800px;
+        font-size: 40px;
+        line-height: 44px;
+        top:316px;
+    }
+    .tituloshabilidades5{
+        width: 550px;
+        height: 48px;
+        left: 60px;
+        font-weight: 800px;
+        font-size: 40px;
+        line-height: 44px;
+        top:416px;
+    }
+    
+    .rectangulo11{
+        width: 718px;
+        height: 28px;
+        left: 60px;
+        top:100px;
+    }
+    .rectangulo12{
+        width: 718px;
+        height: 28px;
+        left: 60px;
+        top:200px;
+    }
+    .rectangulo13{
+        width: 718px;
+        height: 28px;
+        left: 60px;
+        top:300px;
+    }
+    .rectangulo14{
+        width: 718px;
+        height: 28px;
+        left: 60px;
+        top:400px;
+    }
+    .rectangulo15{
+        width: 718px;
+        height: 28px;
+        left: 60px;
+        top:500px;
+    }
+    
+    .rectangulo2{
+        width: 628px;
+        height: 28px;
+        left: 60px;
+        top: 100px;
+    }
+    
+    .rectangulo3{
+        width: 692px;
+        height: 28px;
+        left: 60px;
+        top: 200px;
+    }
+    
+    .rectangulo4{
+        width: 580px;
+        height: 28px;
+        left: 60px;
+        top: 300px;
+    }
+    .rectangulo5{
+        width: 660px;
+        height: 28px;
+        left: 60px;
+        top: 400px;
+    }
+    .rectangulo6{
+        width: 660px;
+        height: 28px;
+        left: 60px;
+        top: 500px;
+    }
+    
+    .habilidadesparte2{
+        top:120px;
+    }
+    
+    .habilidadesparte3{
+        top:240px;
+    }
+    
+    .habilidadesparte4{
+        top:360px;
+    }
+    
+    .habilidadesparte5{
+        top:480px;
+    }
+    
+    .rectangulohabilidades{
+        left:-40px;
+        top:140px;
+        width: 840px;
+        height: 600px;
+        border-radius: 100px;
+        }
+    
+    .contactame{
+        top:4560px;
+    }
+    .formulario{
+        top:120px;
+    
+    }
+    
+    .iconos{
+    width: 200px;
+    height: 199.76px;
+    left: 140px;
+    top:400px;
+    }
+    
+    .iconos2{
+        position: absolute;
+        width: 200px;
+        height: 199.76px;
+        left: 400px;
+        top:400px;
+        }
+
+}
+
+@media (min-width:1440px){
+    body{
+        margin: 40px;
+        padding: 150px;
+        width: 1455px;
+        height: 7900px;
+    }
+    
+    .navegador{
+    padding: 30px;
+    width: 117px;
+    height: 152px;
+    font-weight: 1264px;
+    font-size: 51px;
+    line-height: 60px;
+    }
+    
+    .navbar{
+        margin-top: 107px;
+    }
+    
+    .cabecera{
+        width: 1516px;
+        height: 1055px;
+    }
+    
+    
+    .line{
+    width: 1264px;
+    height: 0px;
+    left: 130px;
+    top: 218px;
+    border: 3px solid #FFFFFF;
+    }
+    
+    .nombre{
+    margin-top: 253px;
+    font-weight: 1264px;
+    font-size: 152px;
+    line-height: 171px;
+    }
+    
+    .bienvenida{
+    margin-top: 200px;
+    font-weight: 1264px;
+    font-size: 120px;
+    line-height: 85px;
+    }
+    
+    .carrusel{
+        top: 1144px;
+    }
+    
+    .imagen{
+        width: 1232px;
+        height: 900px;
+    }
+    
+    .sobremi{
+    top: 2000px;
+    }
+    
+    .sobremititulo{
+        width: 1059px;
+        height: 107px;
+        font-weight: 1264px;
+        font-size: 120px;
+        line-height: 85px;
+        }
+        
+    .perfil{
+        top: 221px;
+        width: 1169px; 
+        border-radius: 63px;
+    }
+    
+    .descripcion{
+        width: 1200px;
+        height: 461px;
+        top: 1169px;
+        font-weight: 1264px;
+        font-size: 51px;
+        line-height: 57px; 
+    }
+    
+    .subtitulos{
+        width: 1059px;
+        height: 107px;
+        font-weight: 1264px;
+        font-size: 63px;
+        line-height: 70px;
+    
+    }
+    
+    .intereses{
+        width: 1264px;
+        height: 461px;
+        top: 150px;
+        font-weight: 1264px;
+        font-size: 51px;
+        line-height: 57px;
+    }
+    
+    .cortoplazo{
+        width: 1059px;
+        height: 107px;
+        font-weight: 1264px;
+        font-size: 63px;
+        line-height: 70px;
+    }
+    
+    .textocortoplazo{
+        width: 1264px;
+        height: 461px;
+        top: 150px;
+        font-weight: 1264px;
+        font-size: 51px;
+        line-height: 57px;
+    }
+    
+    .largoplazo{
+        width: 1059px;
+        height: 107px;
+        font-weight: 1264px;
+        font-size: 63px;
+        line-height: 70px;
+    
+    }
+    
+    .textolargoplazo{
+        width: 1264px;
+        height: 461px;
+        top: 160px;
+        font-weight: 1264px;
+        font-size: 51px;
+        line-height: 57px;
+    }
+    
+    .parte2{
+        top: 1517px;
+    }
+    .parte3{
+        top: 1959px;
+    
+    }
+    .parte4{
+        top: 2212px;
+    
+    }
+    
+    .experiencia{
+        top:4550px;
+    }
+    
+    .rectangulo{
+    left:-63px;
+    top:221px;
+    width: 1327px;
+    height: 1169px;
+    border-radius: 250px;
+    }
+    
+    .titulosproyectos{
+        width: 578px;
+        height: 73px;
+        left: 200px;
+        font-weight: 1264px;
+        font-size: 63px;
+        line-height: 70px;
+    }
+    
+    .parrafoproyecto{
+    width: 600px;
+    height: 104px;
+    left:150px;
+    top:150px;
+    font-weight: 1264px;
+    font-size: 44px;
+    line-height: 51px;
+    }
+    
+    .link{
+        left: 400px;
+        font-size: 40px;
+        top: 284px;
+    }
+    
+    .parte2experiencia{
+        top:379px;
+    }
+    
+    .parte3experiencia{
+        top:758px;
+    }
+    
+    .imagenproyectos{
+    width: 354px;
+    height: 275px;
+    top:63px;
+    left: 850px;
+    }
+    
+    .habilidades{
+        top:5972px;
+    }
+    
+    .tituloshabilidades1{
+        width: 869px;
+        height: 120px;
+        left: 150px;
+        font-weight: 1264px;
+        font-size: 63px;
+        line-height: 70px;
+        top:25px;
+    }
+    .tituloshabilidades2{
+        width: 869px;
+        height: 120px;
+        left: 150px;
+        font-weight: 1264px;
+        font-size: 63px;
+        line-height: 70px;
+        top:173px;
+    }
+    .tituloshabilidades3{
+        width: 869px;
+        height: 120px;
+        left: 150px;
+        font-weight: 1264px;
+        font-size: 63px;
+        line-height: 70px;
+        top:341px;
+    }
+    .tituloshabilidades4{
+        width: 869px;
+        height: 120px;
+        left: 150px;
+        font-weight: 1264px;
+        font-size: 63px;
+        line-height: 70px;
+        top:499px;
+    }
+    .tituloshabilidades5{
+        width: 869px;
+        height: 120px;
+        left: 150px;
+        font-weight: 1264px;
+        font-size: 63px;
+        line-height: 70px;
+        top:657px;
+    }
+    
+    .rectangulo11{
+        width: 1100px;
+        height: 44px;
+        left: 150px;
+        top:170px;
+    }
+    .rectangulo12{
+        width: 1100px;
+        height: 44px;
+        left: 150px;
+        top:316px;
+    }
+    .rectangulo13{
+        width: 1100px;
+        height: 44px;
+        left: 150px;
+        top:474px;
+    }
+    .rectangulo14{
+        width: 1100px;
+        height: 44px;
+        left: 150px;
+        top:632px;
+    }
+    .rectangulo15{
+        width: 1100px;
+        height: 44px;
+        left: 150px;
+        top:800px;
+    }
+    
+    .rectangulo2{
+        width: 628px;
+        height: 44px;
+        left: 150px;
+        top: 170px;
+    }
+    
+    .rectangulo3{
+        width: 692px;
+        height: 44px;
+        left: 150px;
+        top: 316px;
+    }
+    
+    .rectangulo4{
+        width: 916px;
+        height: 44px;
+        left: 150px;
+        top: 474px;
+    }
+    .rectangulo5{
+        width: 660px;
+        height: 44px;
+        left: 150px;
+        top: 632px;
+    }
+    .rectangulo6{
+        width: 660px;
+        height: 44px;
+        left: 150px;
+        top: 800px;
+    }
+    
+    .habilidadesparte2{
+        top:120px;
+    }
+    
+    .habilidadesparte3{
+        top:379px;
+    }
+    
+    .habilidadesparte4{
+        top:569px;
+    }
+    
+    .habilidadesparte5{
+        top:758px;
+    }
+    
+    .rectangulohabilidades{
+        left:-63px;
+        top:221px;
+        width: 1327px;
+        height: 948px;
+        border-radius: 250px;
+        }
+    
+    .contactame{
+        top:7150px;
+    }
+    .formulario{
+        top:300px;
+    
+    }
+    
+    .iconos{
+    width: 316px;
+    height: 316px;
+    left: 221px;
+    top:632px;
+    }
+    
+    .iconos2{
+        position: absolute;
+        width: 316px;
+        height: 316px;
+        left: 632px;
+        top:632px;
+        }
+}
