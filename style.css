@@ -285,3 +285,104 @@ height: 87px;
 top:20px;
 left: 290px;
 }
+
+.habilidades{
+    position: absolute;
+    top:1890px;
+}
+
+.tituloshabilidades{
+    position: absolute;
+    width: 275px;
+    height: 24px;
+    left: 30px;
+    font-family: 'Sansation';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 22px;
+    
+    color: #000000;
+}
+
+.rectangulo1{
+    position: absolute;
+    width: 359px;
+    height: 14px;
+    left: 30px;
+    top:50px;
+    background: #D9D9D9;
+}
+
+.rectangulo2{
+    position: absolute;
+    width: 314px;
+    height: 14px;
+    left: 30px;
+    top: 50px;
+    background: #02B554;
+}
+
+.rectangulo21{
+    position: absolute;
+    width: 346px;
+    height: 14px;
+    left: 30px;
+    top: 50px;
+    background: #02B554;
+}
+
+.rectangulo22{
+    position: absolute;
+    width: 290px;
+    height: 14px;
+    left: 30px;
+    top: 50px;
+    background: #02B554;
+}
+.rectangulo23{
+    position: absolute;
+    width: 330px;
+    height: 14px;
+    left: 30px;
+    top: 50px;
+    background: #02B554;
+}
+.rectangulo24{
+    position: absolute;
+    width: 330px;
+    height: 14px;
+    left: 30px;
+    top: 50px;
+    background: #02B554;
+}
+
+.habilidadesparte2{
+    position: absolute;
+    top:60px;
+}
+
+.habilidadesparte3{
+    position: absolute;
+    top:120px;
+}
+
+.habilidadesparte4{
+    position: absolute;
+    top:180px;
+}
+
+.habilidadesparte5{
+    position: absolute;
+    top:240px;
+}
+
+.rectangulohabilidades{
+    position: absolute;
+    left:-20px;
+    top:70px;
+    width: 420px;
+    height: 340px;
+    background: #9EF3FF;
+    border-radius: 50px;
+    }
