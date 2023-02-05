@@ -1,4 +1,4 @@
-window.addEventListener('load',function(){
+window.addEventListener('click',function(){
     let img=[]
     img[0]="imagenes/imagen1.jpg";
     img[1]="imagenes/imagen2.jpg";
