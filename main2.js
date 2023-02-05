@@ -1,4 +1,4 @@
-window.addEventListener('load',function(){
+window.addEventListener('Load',function(){
     console.log("Entra")
     let img=[]
     img[0]="imagenes/imagen1.jpg";
