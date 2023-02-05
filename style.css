@@ -115,7 +115,7 @@ top: 620px;
     width: 350px;
     height: 146px;
     top: 370px;
-    font-family: 'Sansation';
+    font-family: 'Lora';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -128,7 +128,7 @@ top: 620px;
     width: 335px;
     height: 34px;
     
-    font-family: 'Sansation';
+    font-family: 'Lora';
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
@@ -142,7 +142,7 @@ top: 620px;
     width: 350px;
     height: 146px;
     top: 50px;
-    font-family: 'Sansation';
+    font-family: 'Lora';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -154,7 +154,7 @@ top: 620px;
     position: absolute;
     width: 335px;
     height: 34px;
-    font-family: 'Sansation';
+    font-family: 'Lora';
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
@@ -168,7 +168,7 @@ top: 620px;
     width: 350px;
     height: 146px;
     top: 50px;
-    font-family: 'Sansation';
+    font-family: 'Lora';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -180,7 +180,7 @@ top: 620px;
     position: absolute;
     width: 335px;
     height: 34px;
-    font-family: 'Sansation';
+    font-family: 'Lora';
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
@@ -194,7 +194,7 @@ top: 620px;
     width: 350px;
     height: 146px;
     top: 50px;
-    font-family: 'Sansation';
+    font-family: 'Lora';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -215,4 +215,73 @@ top: 620px;
     position: absolute;
     top: 700px;
 
+}
+
+.experiencia{
+    position: absolute;
+    top:1430px;
+}
+
+.rectangulo{
+position: absolute;
+left:-20px;
+top:70px;
+width: 420px;
+height: 370px;
+background: #9EF3FF;
+border-radius: 50px;
+}
+
+.titulosproyectos{
+    position: absolute;
+    width: 183px;
+    height: 23px;
+    left: 82px;
+    
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 22px;
+    color: #000000;
+
+}
+
+.parrafoproyecto{
+position: absolute;
+width: 237px;
+height: 33px;
+left:50px;
+top:50px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+color: #000000;
+}
+
+.link{
+    position: absolute;
+    left: 130px;
+    top: 90px;
+}
+
+.parte2experiencia{
+    position: absolute;
+    top:120px;
+}
+
+.parte3experiencia{
+    position: absolute;
+    top:240px;
+}
+
+.imagenproyectos{
+position: absolute;
+width: 112px;
+height: 87px;
+top:20px;
+left: 290px;
 }
